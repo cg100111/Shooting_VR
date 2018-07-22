@@ -1,0 +1,9 @@
+abc 50
+bcd 45
+cde 30
+def 28
+efg 23
+fgh 10
+ghi 5
+hij 2
+ijk 0
